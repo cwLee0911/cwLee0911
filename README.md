@@ -1,86 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00FF9F,50:00EAFF,100:FF2A6D&text=cwLee0911&fontColor=0B1020&fontSize=48&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00FF9F,50:8A2BE2,100:FF2A6D&text=Chaewon%20Lee&fontColor=0B1020&fontSize=48&fontAlignY=35&animation=twinkling" />
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="75" style="vertical-align: middle;"/>
-  cwLee0911
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="75" style="vertical-align: middle;"/>
-</h1>
+<br><br>
 
-<p>
-  Neon Crocodile in the Code Swamp
-</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="90"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE;HUNT+MODE+ACTIVATED;BUILDING+FAST+TOOLS" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=MEDICAL+AI+%7C+CLINICAL+NLP;LLM+%2F+RAG+%2F+BERTopic;ACCESSING+CLINICAL+DATA...;HUNT+MODE+ACTIVATED" />
 
 </div>
 
 ---
 
-## 🐊 About Me
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="30"/>
+  Experience
+</h2>
 
-> Neon Crocodile building fast, native-feeling tools.
+<ul style="list-style: none; padding-left: 0;">
 
-- 🐊 Developer with a cyberpunk mindset  
-- ⚡ Focused on fast, intuitive user experiences  
-- 🧠 Building practical, sharp tools  
-- 🦖 Currently building: **NotchClick**
+<li style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" width="25"/>
+  Yonsei University — Nanoscience Engineering
+</li>
+
+<li style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" width="25"/>
+  AI Researcher, @ Severance Hospital (2022–2024)
+</li>
+
+<li style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25"/>
+  Google Machine Learning Bootcamp 2024
+</li>
+
+</ul>
 
 ---
 
-## 🦖 Projects
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="28"/>
+  Research & Publications
+</h2>
 
-### 🐊 NotchClick
-> Your MacBook notch, now useful.
+### 🧠 Clinical NLP for ASD — IEEE EMBC 2024 / KOSAIM
+- LLM + RAG + BERTopic on EMR clinical notes  
+- Identified behavioral patterns in ASD patients  
+- Applied GPT-based summarization and topic modeling  
 
-- Launch apps instantly  
-- Control music (Apple Music / Spotify)  
-- Check weather  
-- Monitor system status  
+---
+### 🧬 Prenatal ASD Prediction — Yonsei Science Fair
 
-<a href="https://cwlee0911.github.io/NotchClick/">
-  <img src="https://img.shields.io/badge/Download-00FF9F?style=for-the-badge&labelColor=0B1020"/>
+<a href="https://github.com/cwLee0911/2025-Yonsei-Science-Fair.git">
+  <img src="https://img.shields.io/badge/View%20Project-39FF14?style=for-the-badge&labelColor=0B1020"/>
 </a>
 
+- Bayesian-optimized XGBoost  
+- **AUROC: 0.97**  
+- SHAP-based explainability  
+- Early-risk detection from maternal & perinatal data  
 ---
 
-## ⚙️ Tech Stack
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="28"/>
+  Projects
+</h2>
 
-<div align="center">
+### 🤖 Google ML Bootcamp Project (GemmaSprint)
 
-<img src="https://skillicons.dev/icons?i=swift,python,js,ts,react,html,css,git,github,vscode" />
+<a href="https://github.com/cwLee0911/2024_Google-Machine_Learning_Bootcamp.git">
+  <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
+</a>
 
-</div>
+- NLP-based ASD analysis using LLM fine-tuning  
+- Built explainable AI system using QCHAT dataset  
 
+### 🍄 Kaggle ML Projects (Top 5%)
+
+<a href="https://www.kaggle.com/chlee0911">
+  <img src="https://img.shields.io/badge/Kaggle-00EAFF?style=for-the-badge&labelColor=0B1020"/>
+</a>
+
+- Top 5% ranking in Kaggle competition  
+- Built ensemble models (XGBoost / LightGBM / CatBoost / DNN)  
+- Focused on real-world data classification problems  
 ---
 
-## 📡 GitHub Stats
+### 🐊 NotchClick
+> MacBook notch-based control panel
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cwLee0911&show_icons=true&theme=synthwave&hide_border=true&title_color=00FF9F&icon_color=FF2A6D&text_color=E6F1FF&bg_color=0B1020" />
-
-<br><br>
-
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwLee0911&layout=donut&theme=synthwave&hide_border=true&title_color=00FF9F&text_color=E6F1FF&bg_color=0B1020" />
-
-</div>
-
----
-
-## 🧬 System Log
-
-```txt
-[BOOT]     System initialized
-[SCAN]     Searching for efficient solutions
-[BUILD]    NotchClick in progress
-[STRIKE]   Ship fast. Improve constantly.
-
-<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="40"/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="40"/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="40"/>
-
-<br><br>
-
-🐊 Stay still. Strike fast.
-
-</div> ```
+<a href="https://cwlee0911.github.io/NotchClick/">
+  <img src="https://img.shields.io/badge/NotchClick-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
+</a>
