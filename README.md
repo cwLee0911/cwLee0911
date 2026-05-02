@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cwLee0911/cwLee0911/main/banner.png" />
-</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF9F,50:39FF14,100:0B1020"/>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=ACCESSING+CLINICAL+DATA...;PARSING+EMR+SIGNALS...;INITIALIZING+LLM+%2B+RAG+PIPELINE...;HUNT+MODE+ACTIVATED" />
 
