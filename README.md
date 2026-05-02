@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:00FF9F,45:8A2BE2,100:FF2A6D&text=Chaewon%20Lee&fontColor=0B1020&fontSize=56&fontAlignY=34&desc=Medical%20AI%20%7C%20Clinical%20NLP%20%7C%20LLM%20Research&descSize=17&descAlignY=53&animation=twinkling" />
-
-
-<br>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=ACCESSING+CLINICAL+DATA...;PARSING+EMR+SIGNALS...;INITIALIZING+LLM+%2B+RAG+PIPELINE...;HUNT+MODE+ACTIVATED" />
 
@@ -42,6 +41,8 @@
 
 </p>
 </div>
+
+
 <h2 style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="30"/>
   About Me
