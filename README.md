@@ -105,8 +105,6 @@
 - Focused on real-world data classification problems  
 ---
 
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> App Development
 
 ### 🐊 NotchClick
