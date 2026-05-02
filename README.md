@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00FF9F,50:00EAFF,100:FF2A6D&text=CYBER%20CROCODILE&fontColor=0B1020&fontSize=42&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00FF9F,50:00EAFF,100:FF2A6D&text=cwLee0911&fontColor=0B1020&fontSize=48&fontAlignY=35&animation=twinkling" />
 
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="35"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="75" style="vertical-align: middle;"/>
   cwLee0911
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="35"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="75" style="vertical-align: middle;"/>
 </h1>
 
 <p>
@@ -59,9 +59,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cwLee0911&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cwLee0911&show_icons=true&theme=synthwave&hide_border=true&title_color=00FF9F&icon_color=FF2A6D&text_color=E6F1FF&bg_color=0B1020" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwLee0911&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwLee0911&layout=donut&theme=synthwave&hide_border=true&title_color=00FF9F&text_color=E6F1FF&bg_color=0B1020" />
 
 </div>
 
