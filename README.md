@@ -1,24 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00FF9F,50:8A2BE2,100:FF2A6D&text=Chaewon%20Lee&fontColor=0B1020&fontSize=48&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:00FF9F,45:8A2BE2,100:FF2A6D&text=Chaewon%20Lee&fontColor=0B1020&fontSize=56&fontAlignY=34&desc=Medical%20AI%20%7C%20Clinical%20NLP%20%7C%20LLM%20Research&descSize=17&descAlignY=53&animation=twinkling" />
 
-<br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="90"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="90"/>
+<br>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=ACCESSING+CLINICAL+DATA...;PARSING+EMR+SIGNALS...;INITIALIZING+LLM+%2B+RAG+PIPELINE...;HUNT+MODE+ACTIVATED" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=MEDICAL+AI+%7C+CLINICAL+NLP;LLM+%2F+RAG+%2F+BERTopic;ACCESSING+CLINICAL+DATA...;HUNT+MODE+ACTIVATED" />
+<p align="center">
 
+<!-- 1줄: SNS -->
+<!-- 1줄: Contact / Links -->
+<a href="https://www.linkedin.com/in/chaewon-lee-b8a253297">
+  <img src="https://img.shields.io/badge/⭐_LinkedIn-0B1020?style=for-the-badge&labelColor=0B1020&color=0B1020"/>
+</a>
+<a href="https://www.kaggle.com/chlee0911">
+  <img src="https://img.shields.io/badge/Kaggle-0B1020?style=for-the-badge&logo=kaggle&logoColor=00EAFF"/>
+</a>
+<a href="https://www.instagram.com/cw_0911">
+  <img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=FF2A6D"/>
+</a>
+<a href="mailto:chaewon911@yonsei.ac.kr">
+  <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
+</a>
+
+<br>
+
+<!-- 2줄: Core -->
+<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Deep_Learning-0B1020?style=for-the-badge&logo=pytorch&logoColor=FF2A6D"/>
+
+<br>
+
+<!-- 3줄: Research -->
+<img src="https://img.shields.io/badge/NLP-0B1020?style=for-the-badge&logo=spacy&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/LLM-0B1020?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/RAG-0B1020?style=for-the-badge&logo=databricks&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/BERTopic-0B1020?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/EMR_Data-0B1020?style=for-the-badge&logo=databricks&logoColor=00EAFF"/>
+
+</p>
 </div>
-
----
-
 <h2 style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crocodile.png" width="30"/>
-  Experience
+  About Me
 </h2>
 
 <ul style="list-style: none; padding-left: 0;">
@@ -31,6 +57,10 @@
 <li style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" width="25"/>
   AI Researcher, @ Severance Hospital (2022–2024)
+  - LLM + RAG + BERTopic on EMR clinical notes  
+  - Identified behavioral patterns in Autism Spectrum Disorder  
+  
+  → IEEE EMBC 2024, KOSAIM
 </li>
 
 <li style="display: flex; align-items: center; gap: 10px;">
@@ -40,19 +70,9 @@
 
 </ul>
 
----
 
-<h2 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="28"/>
-  Research & Publications
-</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="28"/> Projects
 
-### 🧠 Clinical NLP for ASD — IEEE EMBC 2024 / KOSAIM
-- LLM + RAG + BERTopic on EMR clinical notes  
-- Identified behavioral patterns in ASD patients  
-- Applied GPT-based summarization and topic modeling  
-
----
 ### 🧬 Prenatal ASD Prediction — Yonsei Science Fair
 
 <a href="https://github.com/cwLee0911/2025-Yonsei-Science-Fair.git">
@@ -64,11 +84,6 @@
 - SHAP-based explainability  
 - Early-risk detection from maternal & perinatal data  
 ---
-
-<h2 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="28"/>
-  Projects
-</h2>
 
 ### 🤖 Google ML Bootcamp Project (GemmaSprint)
 
@@ -90,9 +105,15 @@
 - Focused on real-world data classification problems  
 ---
 
-### 🐊 NotchClick
-> MacBook notch-based control panel
+---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> App Development
+
+### 🐊 NotchClick
 <a href="https://cwlee0911.github.io/NotchClick/">
-  <img src="https://img.shields.io/badge/NotchClick-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
+  <img src="https://img.shields.io/badge/View%20App-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
 </a>
+
+- Built a macOS utility that turns the MacBook notch into a compact control panel  
+- Provides quick access to favorite apps, music controls, and local weather.
+- Designed for a fast, native-feeling user experience
