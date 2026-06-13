@@ -112,12 +112,15 @@
 <a href="https://cwlee0911.github.io/NotchClick/">
   <img src="https://img.shields.io/badge/View%20App-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
 </a>
+- Built a macOS utility that turns the MacBook notch into a compact control panel  
+- Provides quick access to favorite apps, and music controls.
+- Designed for a fast, native-feeling user experience
+
 
 ### 🐊 claude-menubar
 <a href="https://github.com/cwLee0911/claude-menubar">
   <img src="https://img.shields.io/badge/View%20App-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
 </a>
-
-- Built a macOS utility that turns the MacBook notch into a compact control panel  
-- Provides quick access to favorite apps, music controls, and local weather.
-- Designed for a fast, native-feeling user experience
+- Built a macOS menu bar utility for tracking Claude Code usage in real time
+- Displays current session and weekly usage from Claude Code rate limit data
+- Runs quietly in the menu bar without a Dock icon for a lightweight native experience
