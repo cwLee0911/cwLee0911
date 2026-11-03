@@ -4,7 +4,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF9F,50:39FF14,100:0B1020"/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=ACCESSING+CLINICAL+DATA...;PARSING+EMR+SIGNALS...;INITIALIZING+LLM+%2B+RAG+PIPELINE...;HUNT+MODE+ACTIVATED" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=FINE-TUNING+LLMs...;CLINICAL+NLP+%2B+RAG...;QUANTIZING+MODELS+FOR+HARDWARE...;BUILDING+AI+PEOPLE+USE" />
 
 <p align="center">
 
@@ -37,7 +37,8 @@
 <img src="https://img.shields.io/badge/LLM-0B1020?style=for-the-badge&logo=python&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/RAG-0B1020?style=for-the-badge&logo=databricks&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/BERTopic-0B1020?style=for-the-badge&logo=python&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/EMR_Data-0B1020?style=for-the-badge&logo=databricks&logoColor=00EAFF"/>
+<img src="https://img.shields.io/badge/QLoRA-0B1020?style=for-the-badge&logo=huggingface&logoColor=FF2A6D"/>
+<img src="https://img.shields.io/badge/Verilog_%2F_FPGA-0B1020?style=for-the-badge&logoColor=00EAFF"/>
 
 </p>
 </div>
@@ -52,12 +53,12 @@
 
 <li style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" width="25"/>
-  Yonsei University — Nanoscience Engineering
+  Yonsei University — Nano Science and Engineering
 </li>
 
 <li style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" width="25"/>
-  AI Researcher, @ Severance Hospital (2022–2024)
+  AI Researcher @ Yonsei IIDH, Severance Hospital (2023–2024)
   - LLM + RAG + BERTopic on EMR clinical notes  
   - Identified behavioral patterns in Autism Spectrum Disorder  
   
@@ -66,7 +67,12 @@
 
 <li style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25"/>
-  Google Machine Learning Bootcamp 2024
+  Google Machine Learning Bootcamp 2024 — Team Lead (Gemma QLoRA fine-tuning)
+</li>
+
+<li style="display: flex; align-items: center; gap: 10px;">
+  🔬 Senior Thesis @ piCASso Lab, Yonsei (2026–)
+  - Quantized ML models → Verilog → FPGA (hardware-efficient ML)
 </li>
 
 </ul>
@@ -74,14 +80,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="28"/> Projects
 
-### 🧬 Prenatal ASD Prediction — Yonsei Science Fair
-
-<a href="https://github.com/cwLee0911/2025-Yonsei-Science-Fair.git">
-  <img src="https://img.shields.io/badge/View%20Project-39FF14?style=for-the-badge&labelColor=0B1020"/>
-</a>
+### 🧬 Prenatal ASD Risk Prediction — UIC Science Fair 2025
 
 - Bayesian-optimized XGBoost  
-- **AUROC: 0.97**  
+- **AUROC 0.97** (held-out test set, n=129)  
 - SHAP-based explainability  
 - Early-risk detection from maternal & perinatal data  
 ---
@@ -95,18 +97,34 @@
 - NLP-based ASD analysis using LLM fine-tuning  
 - Built explainable AI system using QCHAT dataset  
 
-### 🍄 Kaggle ML Projects (Top 5%)
+### 🍄 Kaggle ML Projects (Top 4%)
 
 <a href="https://www.kaggle.com/chlee0911">
   <img src="https://img.shields.io/badge/Kaggle-00EAFF?style=for-the-badge&labelColor=0B1020"/>
 </a>
 
-- Top 5% ranking in Kaggle competition  
+- Top 4% (96th of 2,422 teams) in Playground Series S4E8  
 - Built ensemble models (XGBoost / LightGBM / CatBoost / DNN)  
 - Focused on real-world data classification problems  
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> App Development
+
+### 🐊 Crocodile Calendar — App Store
+<a href="https://apps.apple.com/kr/app/crocodile-calendar/id6775777923">
+  <img src="https://img.shields.io/badge/App_Store-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
+</a>
+
+- Study & focus tracker for iPhone, iPad, and Mac (SwiftUI, SwiftData, CloudKit), launched Jun 2026
+- Solo planning, development, payments, and operations; now building a user-requested AI agent
+
+### 🐊 Group Shared Diary — Yonsei AI Startup Hackathon (Trainthon)
+<a href="https://github.com/cwLee0911/yonsei-trainthon-mvp">
+  <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&labelColor=0B1020"/>
+</a>
+
+- Solo iOS MVP built in a two-day hackathon (SwiftUI, Supabase)
+- Room-level access enforced in the database with Row-Level Security
 
 ### 🐊 NotchClick
 <a href="https://cwlee0911.github.io/NotchClick/">
